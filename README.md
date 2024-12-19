@@ -124,6 +124,10 @@
    ```bash
    Authorization: Bearer ваш токен
    ```
+  #### Выход (POST)
+- **Метод**: `POST`
+- **URL**: `/api/logout`
+  
 
 ### API для работы с задачами
 
